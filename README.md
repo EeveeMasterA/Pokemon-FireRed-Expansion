@@ -18,9 +18,11 @@ Step 5: Press "Save Pokemon" And close PGE.
 
 Step 6: Open G3T and press Sort By Level for every pokemon (this is because so that they don't use Struggle). And close G3T
 
-Step 7: For Pokemon Entries, open your rom in HMA it should make a .toml edit the amount of pokemon under data.pokemon.names. Then open it again and edit the entries and save.
+Step 7: For Pokemon Entries, open your rom in HMA it should make a .toml/topl open it in Notepad edit the amount of pokemon under data.pokemon.names. Then open it again and edit the entries and save.
 
 Step 8: Use https://pastebin.com/QpnHyQpJ to add it to A-Map. 
+
+Step 9: AT THE END OF ROM HACKING! Go in Hma and go to Patches it'll open a folder in File Explorer drag the AddFairyType.hma into HMA and then save once done. Now You Got Fairy Type! *don't do this before you're done or else it might corrupt the rom in HMA entirely.*
 
 Have Fun!
 
@@ -38,4 +40,5 @@ luho: amap 1.92
 hackmew: xse
 advance series: wichu
 regex for ripping from dpe: Mala Patke, futuresushi
-Lunos for Pastebin tutorial.
+Lunos: for Pastebin tutorial.
+Larryturbo: Some Gen 8 Gigantamax Icons
