@@ -38,3 +38,4 @@ luho: amap 1.92
 hackmew: xse
 advance series: wichu
 regex for ripping from dpe: Mala Patke, futuresushi
+Lunos for Pastebin tutorial.
