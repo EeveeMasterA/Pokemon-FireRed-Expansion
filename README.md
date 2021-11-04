@@ -18,7 +18,7 @@ Step 5: Press "Save Pokemon" And close PGE.
 
 Step 6: Open G3T and press Sort By Level for every pokemon (this is because so that they don't use Struggle). And close G3T
 
-Step 7: For Pokemon Entries, open your rom in HMA it should make a .toml/topl open it in Notepad edit the amount of pokemon under data.pokemon.names. Then open it again and edit the entries and save.
+Step 7: For Pokemon Entries, open your rom in HMA then close it. Then where your rom is it should make a .topl open it in Notepad. Edit the amount of pokemon under data.pokemon.names. Then open it again and edit the entries and save.
 
 Step 8: Use https://pastebin.com/QpnHyQpJ to add it to A-Map. 
 
@@ -26,7 +26,7 @@ Step 9: AT THE END OF ROM HACKING! Go in Hma and go to Patches it'll open a fold
 
 Have Fun!
 
-Credits (people and tools that helped make this):
+Credits (people and tools that helped make this/are used for this resource):
 Petuhhh @Yak-Attack on Github
 Smogon learnsets: HoeenHero
 DPE data: Skeli
