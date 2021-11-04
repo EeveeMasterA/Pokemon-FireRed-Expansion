@@ -22,7 +22,7 @@ Step 7: For Pokemon Entries, open your rom in HMA it should make a .toml/topl op
 
 Step 8: Use https://pastebin.com/QpnHyQpJ to add it to A-Map. 
 
-Step 9: AT THE END OF ROM HACKING! Go in Hma and go to Patches it'll open a folder in File Explorer drag the AddFairyType.hma into HMA and then save once done. Now You Got Fairy Type! *don't do this before you're done or else it might corrupt the rom in HMA entirely.*
+Step 9: AT THE END OF ROM HACKING! Go in Hma and go to Patches it'll open a folder in File Explorer drag the AddFairyType.hma into HMA and then save once done. Now You Got Fairy Type! (*don't do this before you're done or else it might corrupt the rom in HMA entirely.*)
 
 Have Fun!
 
