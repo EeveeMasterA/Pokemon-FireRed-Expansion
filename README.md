@@ -27,9 +27,10 @@ Step 9: AT THE END OF ROM HACKING! Go in Hma and go to Patches it'll open a fold
 Have Fun!
 
 Known Problems:
-Mega Evolution/Gigantamax doesn't work. Use CRFU.
-Appletun and Appletun don't have a sprite
-After Grookey no-one has a icon.
+1.Mega Evolution/Gigantamax doesn't work. Use CRFU.
+2.Appletun and Appletun don't have a sprite
+3.After Grookey no-one has a icon.
+4. Eevee can't evolve into Leafeon, Glaceon, and Sylveon.
 
 Credits (people and tools that helped make this/are used for this resource):
 Petuhhh @Yak-Attack on Github
