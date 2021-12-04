@@ -33,7 +33,7 @@ Known Problems:
 4. Eevee can't evolve into Leafeon, Glaceon, and Sylveon.
 
 Credits (people and tools that helped make this/are used for this resource):
-Petuhhh @Yak-Attack on Github
+Petuhhh @Yak-Attack on Github: Creator
 Smogon learnsets: HoeenHero
 DPE data: Skeli
 Chaos Rush: Gen 1-5 64x64 sprites
