@@ -12,7 +12,7 @@ Step 2: Press "Import All Pokemon" and select the "Pokemon Folder" that you down
 
 Step 3: Press "Import All Spritesheets" and select the Sprites Folder. Then wait and all the sprites should be there.
 
-Step 4: Press "Import All Icons" and select the Import Folder. Then wait and again every icons (except for gen 8 you'll have to make your own), Will be there.
+Step 4: Press "Import All Icons" and select the Import Folder. Then wait and again every icons (except for gen 8 you'll have to make your own *as well for footprints), Will be there.
 
 Step 5: Press "Save Pokemon" And close PGE.
 
