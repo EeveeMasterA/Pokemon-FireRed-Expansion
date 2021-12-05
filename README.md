@@ -20,7 +20,7 @@ Step 5: Press "Save Pokemon" And close PGE.
 
 Step 6: Open G3T and press Sort By Level for every pokemon (this is because so that they don't use Struggle). And close G3T
 
-Step 7: For Pokemon Entries, open your rom in HMA then close it. Then where your rom is it should make a .topl open it in Notepad. Edit the amount of pokemon under data.pokemon.names. Then open it again and edit the entries and save.
+Step 7: For Pokemon Entries, open your rom in HMA then close it. Then where your rom is it should make a .toml open it in Notepad. Edit the amount of pokemon under data.pokemon.names. then save the file Then open HMA again and edit the entries and save.
 
 Step 8: Use https://pastebin.com/QpnHyQpJ to add it to A-Map. 
 
