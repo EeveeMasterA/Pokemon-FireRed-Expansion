@@ -1,12 +1,14 @@
 # Pokemon-FireRed-Expansion
 Tool that makes Gen 3 Rom Hacks Expand from Gen 1-3 to Gen 1-8! Made by Petuhhh and Me.
 
+You can get it from the master zip or the releases.
+
 Tools Needed:
 Hex Maniac Advance - https://github.com/haven1433/HexManiacAdvance
 PGE- https://github.com/Gamer2020/PokemonGameEditor/releases
 G3T- https://www.pokecommunity.com/showthread.php?t=311461
 
-Step 1: Open a FireRed rom in PGE got to "Patchers and Expanders" and press expand pokemon and add 950 Pokemon and 950 Entries. Then wait. Once that is done, and you press Pokemon Editor. There should be 950 ?????'s.
+Step 1: Get and Open a FireRed rom in PGE got to "Patchers and Expanders" and press expand pokemon and add 950 Pokemon and 950 Entries. Then wait. Once that is done, and you press Pokemon Editor. There should be 950 ?????'s.
 
 Step 2: Press "Import All Pokemon" and select the "Pokemon Folder" that you downloaded. Wait and now there should be info and names of the Pokemon. 
 
