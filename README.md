@@ -1,7 +1,7 @@
 # Pokemon-FireRed-Expansion
 Tool that makes Gen 3 Rom Hacks Expand from Gen 1-3 to Gen 1-8! Made by Petuhhh and Me.
 
-You can the folders from the master zip.
+Download v1.0.0
 
 Tools Needed:
 Hex Maniac Advance - https://github.com/haven1433/HexManiacAdvance
