@@ -1,0 +1,52 @@
+This is for the items. (read evolution.txt first!!)
+
+So for this go to data.items.stats in HMA, at the very bottom of a item in the scroll bar there should be something that says
+data.items.effects and this is where you put the effects (read this to understand). Make sure to press new data before starting to type the effects. 
+
+
+Effects means data that makes a evolution item an item that can evolve your pokemon (it can also be related to pokeballs but that's not what we're talking about).
+
+Anyways let's start, so I'm gonna make this easy for you
+
+Here are the newly added items that don't need effects.
+
+DUBIOUSDISC
+ELECTIRIZER
+MAGMARIZER
+PRISM SCALE
+PROTECTOR
+REAPER CLOTH
+SACHET 
+WHIPPED-D
+
+
+Now the others
+will kind of act like an evolution stone (Because some are but others are supposed to be used in bag)
+
+Anyways for the one that need effects go to LEAF STONE and go to the bottom of the scroll bar you'll see
+data.items.effects copy the numbers next to the word "data" it should look like this <000000>
+then copy leaf stone's numbers and go to ICE STONE and then go to the bottom of the scroll and then paste
+the numbers next to data then press repoint and then you're good keep on doing that with the others copy leaf stone numbers next to the data
+go to the items (that's NOT the items above) and then paste the numbers (hex i guess you can call it) and then press "repoint this one." and then you're done
+Then press CTRL+S and woohoo. you have new evolution stones!!!
+
+
+
+LIST OF ITEMS TO DO THE EFFECTS (if you need help):
+
+SHINY STONE
+DUSK STONE
+DAWN STONE
+ICE STONE
+CHIPPED POT
+CRACKED POT
+GALARICA CUFF
+G-WREATH
+OVAL STONE
+RAZOR CLAW
+RAZOR FANG
+SWEET APPLE
+TART APPLE
+STRAWBERRY SWEET
+
+

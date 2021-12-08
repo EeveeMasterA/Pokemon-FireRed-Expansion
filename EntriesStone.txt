@@ -1,0 +1,28 @@
+Entries for Stones (read Evolution.txt FIRST)
+*NOTE MIGHT HAVE TO PRESS NEW DATA IN HMA BY THE ENTRY THEN ADD THE ENTRY*
+*REPOINT BEFORE ADDING ENTRIES*
+
+Find these in HMA and copy and paste them into the entry box in data.item.stats.
+
+SHINY STONE: "A peculiar stone that makes certain\nspecies of POKéMON evolve.\nIt has a shiny pattern."
+DUSK STONE: "A peculiar stone that makes certain\nspecies of POKéMON evolve.\nIt has a dark pattern."
+DAWN STONE: "A peculiar stone that makes certain\nspecies of POKéMON evolve.\nIt has a star pattern."
+ICE STONE: "A peculiar stone that makes certain\nspecies of POKéMON evolve.\nIt has a snowy pattern."
+CHIPPED POT: "A peculiar teapot that makes certain\nspecies of POKéMON evolve.\nIt has a chip."
+CRACKED POT: "A peculiar teapot that makes certain\nspecies of POKéMON evolve.\nIt has a crack."
+DUBIOUSDISC: "A device flowing with data."
+ELECTIRIZER: "A box packed with a tremendous\namount of electric energy."
+GALARICACUFF: "A cuff made from woven-together\nGalarica Twigs."
+G-WREATH: "A wreath made from woven\ntogether Galarica Twigs."
+MAGMARIZER: "A box packed with a tremendous\namount of magma energy."
+OVAL STONE: "A EGG stone Evolves\nHAPPINY into CHANSEY!"
+PRISM SCALE: "A scale that shines beautiful\ncolors."
+PROTECTOR: "A protective item of some sort."
+RAZOR CLAW: "An item to be held by a Pokémon.\nIt is a sharply hooked claw."
+RAZOR FANG: "An item to be held by a POKéMON\nIt may cause the foe to flinch."
+REAPER CLOTH: "A cloth imbued with horrifyingly\nstrong spiritual energy."
+SACHET: "A sachet filled with fragrant\nperfumes."
+SWEET APPLE: "A peculiar apple that can make\na species of Pokémon evolve."
+TART APPLE: "A peculiar apple that can make\na species of Pokémon evolve."
+WHIPPED-D: "A soft and sweet treat made of\nfluffy whipped cream."
+STRAWBERRY-S: "A strawberry-shaped sweet. When a\nMilcery holds this it will spin."
