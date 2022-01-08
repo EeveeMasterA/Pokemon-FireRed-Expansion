@@ -1,0 +1,12 @@
+Hey this is entries tutorial. 
+
+So first make sure you expanded the dex and edited the toml for the rom and change the data.pokemon.names amount from 412 to 1266
+
+Anyways once that's done, open HMA and then go to pokedex.stats. then scroll to unknown~115. Then make sure you selected everything in that row and select 
+unknown~115 to unknown~614. Then copy.
+
+Make sure you have notepad++ (you can use notepad i guess) and paste what you copied. Then, press ctrl+h and then in find what type 444C35 and in the replace collumn type a BLUE offset entry. 
+
+Now press replace all and press ctrl+a and copy. Then go back to HMA and unknown 115 and then press ctrl+v. Once that's done you'll press save and then go to unknown 15 and press control v. 
+This should make everyone's entries bulbasuars. Now make sure you saved and then press repoint then repoint all in unknown~15 by the bulbasaur entries and then go to this link https://pastebin.com/raw/uwjMMbtz press ctrl+a then ctrl+c and then
+go back to hma unknown~15 and then ctrl+v there should be a green bar and once that's done. You'll have entries!! And finally save. And woohoo!
