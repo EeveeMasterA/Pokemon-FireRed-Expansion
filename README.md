@@ -6,7 +6,6 @@ Download v1.0.0
 Tools Needed:
 Hex Maniac Advance - https://github.com/haven1433/HexManiacAdvance
 PGE- https://github.com/Gamer2020/PokemonGameEditor/releases
-G3T- https://www.pokecommunity.com/showthread.php?t=311461
 
 Step 1: Get and Open a FireRed rom in PGE got to "Patchers and Expanders" and press expand pokemon and add 950 Pokemon and 950 Entries. Then wait. Once that is done, and you press Pokemon Editor. There should be 950 ?????'s.
 
@@ -18,9 +17,9 @@ Step 4: Press "Import All Icons" and select the Import Folder. Then wait and aga
 
 Step 5: Press "Save Pokemon" And close PGE.
 
-Step 6: Open G3T and press Sort By Level for every pokemon (this is because so that they don't use Struggle). And close G3T
+Step 6: For Pokemon Entries, open your rom in HMA then close it. Then where your rom is it should make a .toml open it in Notepad. Edit the amount of pokemon under data.pokemon.names. then save the file Then open HMA again and edit the entries and save.
 
-Step 7: For Pokemon Entries, open your rom in HMA then close it. Then where your rom is it should make a .toml open it in Notepad. Edit the amount of pokemon under data.pokemon.names. then save the file Then open HMA again and edit the entries and save.
+Step 7: If you downloaded hma's latest version, after you expanded press "utilities" then "pokedex" and then "level up move sort" once that's done. Every pokemon will have their move list sorted so that, they won't use only struggle in battle.
 
 Step 8: Use https://pastebin.com/QpnHyQpJ to add it to A-Map. 
 
