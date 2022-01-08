@@ -17,7 +17,7 @@ Step 4: Press "Import All Icons" and select the Import Folder. Then wait and aga
 
 Step 5: Press "Save Pokemon" And close PGE.
 
-Step 6: For Pokemon Entries, open your rom in HMA then close it. Then where your rom is it should make a .toml open it in Notepad. Edit the amount of pokemon under data.pokemon.names. then save the file Then open HMA again and edit the entries and save.
+Step 6: For Pokemon Entries, open your rom in HMA then close it. Then where your rom is it should make a .toml open it in Notepad. Edit the amount of pokemon under data.pokemon.names. then save the file Then open HMA again and edit the entries and save. Then open "entries.txt" on this main page. And do what that says.
 
 Step 7: If you downloaded hma's latest version, after you expanded press "utilities" then "pokedex" and then "level up move sort" once that's done. Every pokemon will have their move list sorted so that, they won't use only struggle in battle.
 
